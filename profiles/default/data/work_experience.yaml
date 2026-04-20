@@ -1,0 +1,30 @@
+jobs:
+  - title: "Senior Software Engineer"
+    company: "Example Corp"
+    location: "City, Country"
+    start: "January 2023"
+    end: "Present"
+    bullets:
+      - "Led design and implementation of a data pipeline consolidating fragmented operational data into a unified warehouse, reducing dashboard latency by 70%."
+      - "Partnered with product and operations to replace a third-party analytics tool with an in-house solution, cutting annual licensing cost by $40k."
+      - "Shipped an internal AI assistant using retrieval-augmented generation, adopted by 200+ team members for documentation lookup and summarization."
+      - "Introduced code-review and CI/CD practices that reduced deploy cycle time from days to hours across three engineering teams."
+
+  - title: "Software Engineer"
+    company: "Previous Company"
+    location: "City, Country"
+    start: "June 2019"
+    end: "December 2022"
+    bullets:
+      - "Built and maintained multiple microservices handling 5M+ requests per day, with 99.9% uptime."
+      - "Designed and delivered the backend for a customer-facing feature shipped to 100k users, collaborating with design and product from discovery through launch."
+      - "Mentored two junior engineers through their first end-to-end product launches."
+
+  - title: "Junior Software Developer"
+    company: "First Employer"
+    location: "City, Country"
+    start: "July 2017"
+    end: "May 2019"
+    bullets:
+      - "Contributed to a web application used internally by operations teams; owned the billing module end-to-end."
+      - "Automated manual reporting workflows, saving the operations team ~15 hours per week."

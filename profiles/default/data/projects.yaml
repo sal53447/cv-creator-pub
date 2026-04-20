@@ -1,0 +1,36 @@
+tiers:
+  - name: "AI & Automation"
+    projects:
+      - name: "Internal RAG Assistant"
+        bullets:
+          - "Built a retrieval-augmented question-answering system over internal documentation using vector search and an LLM-based response generator."
+          - "Rolled out to 200+ users with iterative prompt-evaluation and retrieval tuning based on real usage patterns."
+
+      - name: "Workflow Automation Platform"
+        bullets:
+          - "Designed a low-code automation platform reducing manual operational tasks by ~30% across three departments."
+
+      - name: "Email Classification Pipeline"
+        bullets:
+          - "Built an LLM-based classification system for a shared mailbox; selected a small model to control token cost on high-volume workload."
+
+  - name: "Data Engineering & Analytics"
+    projects:
+      - name: "End-to-End Analytics Pipeline"
+        bullets:
+          - "Replaced spreadsheet-based reporting with a modern data warehouse (dbt + PostgreSQL + Metabase); self-serve access across departments."
+          - "Reduced report-generation latency from hours to minutes."
+
+      - name: "Event Ingestion & Analytics"
+        bullets:
+          - "Designed a streaming ingestion pipeline handling 10M events per day with end-to-end latency under 5 seconds."
+
+  - name: "Platform & Infrastructure"
+    projects:
+      - name: "Kubernetes Migration"
+        bullets:
+          - "Led migration from legacy VM-based deployment to Kubernetes; cut deploy times and reduced infrastructure cost by 40%."
+
+      - name: "CI/CD & Developer Experience"
+        bullets:
+          - "Introduced GitHub Actions pipelines, pre-commit hooks, and shared tooling; reduced new-engineer onboarding time from 2 weeks to 2 days."

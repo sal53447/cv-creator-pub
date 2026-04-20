@@ -1,0 +1,18 @@
+degrees:
+  - degree: "Master of Science"
+    field: "Computer Science"
+    institution: "Example University"
+    location: "City, Country"
+    date: "June 2017"
+    thesis: "Thesis topic goes here. A brief description of the research and its contribution."
+
+  - degree: "Bachelor of Science"
+    field: "Computer Science"
+    institution: "Example University"
+    location: "City, Country"
+    date: "June 2015"
+    thesis: null
+
+certifications:
+  - name: "Sample Professional Certification"
+    institution: "Issuing Body"

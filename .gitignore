@@ -1,0 +1,8 @@
+*.html
+__pycache__/
+*.pyc
+.playwright-mcp/
+output/
+.venv/
+venv/
+.DS_Store

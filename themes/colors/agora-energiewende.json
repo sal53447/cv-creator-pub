@@ -1,0 +1,14 @@
+{
+  "theme": "agora-energiewende",
+  "description": "Agora's purple-to-blue gradient brand — deep plum ink, pale lavender sidebar, violet accent",
+  "colors": {
+    "ink":        "#1a1020",
+    "ink-soft":   "#3d2b45",
+    "muted":      "#7a6882",
+    "rule":       "#ddd0e8",
+    "bg":         "#ffffff",
+    "sidebar-bg": "#f2eef7",
+    "page-bg":    "#e6ddf0",
+    "accent":     "#9b359a"
+  }
+}

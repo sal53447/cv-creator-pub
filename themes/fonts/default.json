@@ -1,0 +1,12 @@
+{
+  "primary": {
+    "family": "Chiron GoRound TC",
+    "google_import": "https://fonts.googleapis.com/css2?family=Chiron+GoRound+TC:wght@200..900&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap",
+    "weights": [300, 400, 500, 600, 700, 800],
+    "usage": "body text"
+  },
+  "display": {
+    "family": "Merriweather",
+    "usage": "titles and headings"
+  }
+}

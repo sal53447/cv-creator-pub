@@ -1,0 +1,14 @@
+{
+  "theme": "default",
+  "description": "Dark navy + sage green sidebar — professional and calm",
+  "colors": {
+    "ink":        "#0f1d2e",
+    "ink-soft":   "#2a3a4f",
+    "muted":      "#5a6a7d",
+    "rule":       "#c9d2dc",
+    "bg":         "#ffffff",
+    "sidebar-bg": "#eaf1ec",
+    "page-bg":    "#e8ebee",
+    "accent":     "#0f1d2e"
+  }
+}

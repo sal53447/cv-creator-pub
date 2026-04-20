@@ -1,0 +1,23 @@
+phone: "+00 000 0000000"
+email: "jane.doe@example.com"
+location: "City, Country"
+relocation_note: "Open to remote / relocation"
+linkedin: "linkedin.com/in/janedoe"
+
+languages:
+  - name: "English"
+    level: "Native"
+  - name: "Other Language"
+    level: "B2"
+
+skills:
+  - category: "Languages & Frameworks"
+    items: "Python · TypeScript · Go · React · Node.js · FastAPI"
+  - category: "Data & ML"
+    items: "SQL · dbt · PostgreSQL · Pandas · scikit-learn · MLflow"
+  - category: "Cloud & DevOps"
+    items: "AWS · GCP · Docker · Kubernetes · Terraform · GitHub Actions"
+  - category: "AI Integration"
+    items: "RAG · Prompt engineering · Vector search · LLM orchestration"
+  - category: "Process & Delivery"
+    items: "Agile · Technical mentoring · Stakeholder workshops · Documentation"

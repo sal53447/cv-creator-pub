@@ -1,0 +1,14 @@
+publications:
+  - title: "Example Paper or Blog Post Title"
+    venue: "Journal / Conference / Publication"
+    url: "https://example.com/paper"
+    url_display: "example.com/paper"
+    description: "A one-line description of the work and its contribution."
+
+volunteer:
+  description: "Example volunteer experience — e.g. technical mentoring, community organizing, open-source maintenance."
+
+hobbies:
+  - "Example Hobby 1"
+  - "Example Hobby 2"
+  - "Example Hobby 3"
