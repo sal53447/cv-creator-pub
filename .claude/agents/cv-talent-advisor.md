@@ -29,7 +29,7 @@ Your **primary source of truth** about any target company and role is `profiles/
 
 ## CV Project Context
 
-The user's CV is built from a modular YAML + Python system:
+This CV is built from a modular YAML + Python system:
 - **Content lives in** `profiles/{profile}/*.yaml` — this is what you edit to change text
 - **Colors are set by** `themes/colors/{company}.json` — you don't edit these for content advice
 - **Layout constraint**: Always exactly 3 A4 pages, hardcoded — do not add so much content it would break pagination
